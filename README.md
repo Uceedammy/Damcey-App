@@ -15,7 +15,7 @@ This project demonstrates how to implement self-service registration and login u
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/Uceedammy/Damcey-App.git
-cd azure-entra-auth
+cd damcey
 ```
 
 ### 2️⃣ Install Dependencies
